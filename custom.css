@@ -1,0 +1,32 @@
+.bg-dark {
+	height: 50px;
+    background-image: linear-gradient(to right, #0099DA , #62E2FC); !important;
+}
+.ipad-img {
+	width: 60%; 
+	display: inline-block;
+}
+.raflcptr {
+    margin: 0 auto;
+    padding: 0;
+    width:100%
+    border: 1px solid #0099DA!important;
+    border-top-width: 1px;
+    border-bottom: 1px solid #0099DA!important;
+    background: white;
+    color: #322e35;
+    font-family: Helvetica, "Helvetica Neue", Helvetica, sans-serif;
+    -moz-border-radius-bottomleft: 8px;
+    -webkit-border-bottom-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    -moz-border-radius-bottomright: 8px;
+    -webkit-border-bottom-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    -webkit-transition: none;
+    -moz-transition: none;
+    -o-transition: none;
+    transition: none;
+    -webkit-box-shadow: 0 1px 0 0 #959ba9;
+    -moz-box-shadow: 0 1px 0 0 #959ba9;
+    box-shadow: 0 1px 0 0 #959ba9;
+}
