@@ -3,8 +3,15 @@
     background-image: linear-gradient(to right, #0099DA , #62E2FC); !important;
 }
 .ipad-img {
-	width: 60%; 
+	width: 20%; 
 	display: inline-block;
+}
+.padding-top{
+	padding-top: 30px;
+}
+.lead {
+    font-size: 1.2rem;
+    font-weight: 300;
 }
 .raflcptr {
     margin: 0 auto;
